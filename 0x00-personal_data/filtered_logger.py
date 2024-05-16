@@ -3,6 +3,7 @@
 Module for filtering log data.
 """
 
+
 import re
 from typing import List
 
